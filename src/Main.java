@@ -1,10 +1,10 @@
 public class Main
 {
-    public static void main(String[] args
+    public static void main(String[] args)
     {
-       int birthMonth = 2;
+       int birthMonth = 124;
 
-       if (birthMonth >= 1 & <= 12)
+       if(birthMonth>= 1 & birthMonth <= 12)
 
 
            System.out.println("your birth month is " + birthMonth);
